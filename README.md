@@ -1,6 +1,6 @@
-# This repo is deprecated. For latest updates for AsciiDoc and OpenShiftAsciiDoc rule sets see here: https://github.com/redhat-documentation/vale-at-red-hat/
 
-## Vale ruleset for AsciiDoc
+
+## Vale ruleset for Localization
 
 This repo contains Vale rules to check for correct AsciiDoc syntax in AsciiDoc module files. These syntax rules are derived from Red Hat's [Modular Docs Guidelines](https://redhat-documentation.github.io/modular-docs/) and [OpenShift Docs Guidelines](https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/doc_guidelines.adoc).
 
