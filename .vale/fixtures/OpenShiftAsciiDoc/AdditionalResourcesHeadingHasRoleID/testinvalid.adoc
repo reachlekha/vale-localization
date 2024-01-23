@@ -1,2 +1,0 @@
-//vale-fixture
-.Additional resources
