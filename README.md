@@ -16,7 +16,7 @@ To test the `Localization` rule set, add a `.vale.ini` configuration file in you
 
 MinAlertLevel = suggestion
 
-Packages = https://github.com/reachlekha/vale-localization/releases/latest/Localization/Localization.zip
+Packages = https://github.com/reachlekha/vale-localization/releases/latest/download/Localization.zip
 
 [[!.]*.adoc]
 BasedOnStyles = RedHat, Localization
@@ -27,8 +27,6 @@ BasedOnStyles = RedHat, Localization
 ## Verification
 
 To verify, run `vale ls-config` in your modules directory to check that the `Localization` package is installed. 
-
-_Example output_
 
   ```
   {
