@@ -28,8 +28,6 @@ BasedOnStyles = RedHat, Localization
 
 To verify, run `vale ls-config` in your modules directory to check that the `Localization` package is installed. 
 
-_Example output_
-
   ```
   {
   "BlockIgnores": {},
