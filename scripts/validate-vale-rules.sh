@@ -28,9 +28,9 @@ Rule() {
     fi
 }
 
-# This scripts runs the  suite for each rule in the `Localization` style.
+# This scripts runs the  suite for each rule in the `Modals` style.
 TOTAL=0
-for RULE in $(find .vale/styles/Localization/ -name '*.yml' | cut -d/ -f 4 | cut -d. -f1 | sort)
+for RULE in $(find .vale/styles/modals/ -name '*.yml' | cut -d/ -f 4 | cut -d. -f1 | sort)
 do  
     Rule
 done

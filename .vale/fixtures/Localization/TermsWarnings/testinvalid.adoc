@@ -1,5 +1,0 @@
-// Example entries:
-// all caps
-// architected
-// are updatable
-// as well as
