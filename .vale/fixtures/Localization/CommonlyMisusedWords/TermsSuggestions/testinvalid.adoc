@@ -1,5 +1,0 @@
-// Example entries:
-// above
-// afterwards
-// all caps
-// bare metal clusters

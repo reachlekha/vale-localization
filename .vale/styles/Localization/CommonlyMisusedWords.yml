@@ -8,13 +8,3 @@ message: "Avoid terms that are ambiguous and problematic in a localization conte
 tokens:
   - allow
   - acronym
-  - etc
-  - ie
-  - eg
-  - ex
-  - via
-  - versus
-  - et cetera
-  - per se
-  - vice versa
-  - won’t

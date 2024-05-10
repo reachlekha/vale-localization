@@ -1,6 +1,0 @@
-// Example entries:
-// 10BASET
-// 24/7
-// a lot
-// a number of
-// abort
